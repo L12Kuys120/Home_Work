@@ -1,0 +1,15 @@
+C:\Users\radio\OneDrive\Документы\Seminar6_06_06_2023\HW43\bin\Debug\net6.0\HW43.exe
+C:\Users\radio\OneDrive\Документы\Seminar6_06_06_2023\HW43\bin\Debug\net6.0\HW43.deps.json
+C:\Users\radio\OneDrive\Документы\Seminar6_06_06_2023\HW43\bin\Debug\net6.0\HW43.runtimeconfig.json
+C:\Users\radio\OneDrive\Документы\Seminar6_06_06_2023\HW43\bin\Debug\net6.0\HW43.dll
+C:\Users\radio\OneDrive\Документы\Seminar6_06_06_2023\HW43\bin\Debug\net6.0\HW43.pdb
+C:\Users\radio\OneDrive\Документы\Seminar6_06_06_2023\HW43\obj\Debug\net6.0\HW43.csproj.AssemblyReference.cache
+C:\Users\radio\OneDrive\Документы\Seminar6_06_06_2023\HW43\obj\Debug\net6.0\HW43.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\radio\OneDrive\Документы\Seminar6_06_06_2023\HW43\obj\Debug\net6.0\HW43.AssemblyInfoInputs.cache
+C:\Users\radio\OneDrive\Документы\Seminar6_06_06_2023\HW43\obj\Debug\net6.0\HW43.AssemblyInfo.cs
+C:\Users\radio\OneDrive\Документы\Seminar6_06_06_2023\HW43\obj\Debug\net6.0\HW43.csproj.CoreCompileInputs.cache
+C:\Users\radio\OneDrive\Документы\Seminar6_06_06_2023\HW43\obj\Debug\net6.0\HW43.dll
+C:\Users\radio\OneDrive\Документы\Seminar6_06_06_2023\HW43\obj\Debug\net6.0\refint\HW43.dll
+C:\Users\radio\OneDrive\Документы\Seminar6_06_06_2023\HW43\obj\Debug\net6.0\HW43.pdb
+C:\Users\radio\OneDrive\Документы\Seminar6_06_06_2023\HW43\obj\Debug\net6.0\HW43.genruntimeconfig.cache
+C:\Users\radio\OneDrive\Документы\Seminar6_06_06_2023\HW43\obj\Debug\net6.0\ref\HW43.dll
