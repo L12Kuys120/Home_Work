@@ -1,0 +1,15 @@
+C:\Users\radio\OneDrive\Документы\Seminar7_09_06_2023\HW47\obj\Debug\net6.0\CW5.csproj.AssemblyReference.cache
+C:\Users\radio\OneDrive\Документы\Seminar7_09_06_2023\HW47\obj\Debug\net6.0\CW5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\radio\OneDrive\Документы\Seminar7_09_06_2023\HW47\obj\Debug\net6.0\CW5.AssemblyInfoInputs.cache
+C:\Users\radio\OneDrive\Документы\Seminar7_09_06_2023\HW47\obj\Debug\net6.0\CW5.AssemblyInfo.cs
+C:\Users\radio\OneDrive\Документы\Seminar7_09_06_2023\HW47\obj\Debug\net6.0\CW5.csproj.CoreCompileInputs.cache
+C:\Users\radio\OneDrive\Документы\Seminar7_09_06_2023\HW47\bin\Debug\net6.0\CW5.exe
+C:\Users\radio\OneDrive\Документы\Seminar7_09_06_2023\HW47\bin\Debug\net6.0\CW5.deps.json
+C:\Users\radio\OneDrive\Документы\Seminar7_09_06_2023\HW47\bin\Debug\net6.0\CW5.runtimeconfig.json
+C:\Users\radio\OneDrive\Документы\Seminar7_09_06_2023\HW47\bin\Debug\net6.0\CW5.dll
+C:\Users\radio\OneDrive\Документы\Seminar7_09_06_2023\HW47\bin\Debug\net6.0\CW5.pdb
+C:\Users\radio\OneDrive\Документы\Seminar7_09_06_2023\HW47\obj\Debug\net6.0\CW5.dll
+C:\Users\radio\OneDrive\Документы\Seminar7_09_06_2023\HW47\obj\Debug\net6.0\refint\CW5.dll
+C:\Users\radio\OneDrive\Документы\Seminar7_09_06_2023\HW47\obj\Debug\net6.0\CW5.pdb
+C:\Users\radio\OneDrive\Документы\Seminar7_09_06_2023\HW47\obj\Debug\net6.0\CW5.genruntimeconfig.cache
+C:\Users\radio\OneDrive\Документы\Seminar7_09_06_2023\HW47\obj\Debug\net6.0\ref\CW5.dll
