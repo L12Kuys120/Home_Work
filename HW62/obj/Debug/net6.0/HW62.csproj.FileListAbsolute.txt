@@ -1,0 +1,15 @@
+C:\Users\EL-pr-S\Documents\GB\Temp\Temp\HW62\obj\Debug\net6.0\HW62.csproj.AssemblyReference.cache
+C:\Users\EL-pr-S\Documents\GB\Temp\Temp\HW62\obj\Debug\net6.0\HW62.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EL-pr-S\Documents\GB\Temp\Temp\HW62\obj\Debug\net6.0\HW62.AssemblyInfoInputs.cache
+C:\Users\EL-pr-S\Documents\GB\Temp\Temp\HW62\obj\Debug\net6.0\HW62.AssemblyInfo.cs
+C:\Users\EL-pr-S\Documents\GB\Temp\Temp\HW62\obj\Debug\net6.0\HW62.csproj.CoreCompileInputs.cache
+C:\Users\EL-pr-S\Documents\GB\Temp\Temp\HW62\bin\Debug\net6.0\HW62.exe
+C:\Users\EL-pr-S\Documents\GB\Temp\Temp\HW62\bin\Debug\net6.0\HW62.deps.json
+C:\Users\EL-pr-S\Documents\GB\Temp\Temp\HW62\bin\Debug\net6.0\HW62.runtimeconfig.json
+C:\Users\EL-pr-S\Documents\GB\Temp\Temp\HW62\bin\Debug\net6.0\HW62.dll
+C:\Users\EL-pr-S\Documents\GB\Temp\Temp\HW62\bin\Debug\net6.0\HW62.pdb
+C:\Users\EL-pr-S\Documents\GB\Temp\Temp\HW62\obj\Debug\net6.0\HW62.dll
+C:\Users\EL-pr-S\Documents\GB\Temp\Temp\HW62\obj\Debug\net6.0\refint\HW62.dll
+C:\Users\EL-pr-S\Documents\GB\Temp\Temp\HW62\obj\Debug\net6.0\HW62.pdb
+C:\Users\EL-pr-S\Documents\GB\Temp\Temp\HW62\obj\Debug\net6.0\HW62.genruntimeconfig.cache
+C:\Users\EL-pr-S\Documents\GB\Temp\Temp\HW62\obj\Debug\net6.0\ref\HW62.dll
