@@ -11,12 +11,32 @@ print('Введите число N от 1 до 999:')
 n = input()
 n1 = int(n)
 
-def Bin(n1):
-    if(n1 == 0): return 0
-  
-    return n1%2, Bin(n1%2)
+# print('Введите систему счисления (2, 8):')
+# m = input()
+# m1 = int(m)
 
-# def Oct(N):
+#основания систем счисления
+dbin = 2 
+doct = 8
+def ToNums2(number):
+    res = ''
+    nums = '012345678'
+    while(number > 0):
+        res = nums[number % dbin] + res
+        number = number//dbin
+    return res
 
-# def String():
-print(Bin(5))
+def ToNums8(number):
+    res = ''
+    nums = '012345678'
+    while(number > 0):
+        res = nums[number % doct] + res
+        number = number//doct
+    return res
+
+
+print(ToNums2(n1))
+print(ToNums8(n1))
+
+
+
