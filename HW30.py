@@ -9,12 +9,20 @@ numb3 = int(input("Введите количество алиментов:"))
 
 def Progress(a, b, c):
 
-    #for m in range(a, c - 1):
-    list = []
-    [a * (c - 1) * b for item in range(0, c - 1)]
+    list = []  
+    k = 0 
+    [list.append(a + (k - 1) * b) for k in range (1, c)]
+    # list = [a]   
+    # # i = 1
+    # # while(i < c):
+    # #     list.append(a + b)        
+    # #     a = a + b
+    # #     i = i + 1
+   
     return list
-    print(list)
 
 print(Progress(numb1, numb2, numb3)) 
 
-#k = int(input("Введите число k: "))
+
+
+
