@@ -3,13 +3,18 @@
 # Формула для получения n-го члена прогрессии: an = a1 + (n-1) * d.
 # Каждое число вводится с новой строки.
 
-numb1 = int(input('Введите 1-й алимент:'))
-numb2 = int(input('Введите разность:'))
-numb3 = int(input('Введите количество алиментов:'))
+numb1 = int(input("Введите 1-й алимент:"))
+numb2 = int(input("Введите разность:"))
+numb3 = int(input("Введите количество алиментов:"))
 
 def Progress(a, b, c):
-    list = []
-    [a * (c - 1) * b for  range(0, c - 1)]
-    return list
 
-print(Progress(numb1, numb2, numb3))
+    #for m in range(a, c - 1):
+    list = []
+    [a * (c - 1) * b for item in range(0, c - 1)]
+    return list
+    print(list)
+
+print(Progress(numb1, numb2, numb3)) 
+
+#k = int(input("Введите число k: "))
